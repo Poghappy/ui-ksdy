@@ -2,7 +2,7 @@
   "name": "@builder.io/mitosis-fiddle",
   "private": true,
   "dependencies": {
-    "@builder.io/eslint-plugin-mitosis": "workspace:*",
+    "@builder.io/eslint-plugin-mitosis": "0.0.1",
     "@builder.io/mitosis": "workspace:*",
     "@builder.io/sdk": "^1.1.20",
     "@emotion/react": "^11.9.3",
