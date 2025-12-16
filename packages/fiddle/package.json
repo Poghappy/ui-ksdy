@@ -18,7 +18,7 @@
     "mobx": "^6.6.0",
     "mobx-react-lite": "^3.4.0",
     "monaco-editor": "^0.34.0",
-    "next": "latest",
+    "next": "14.2.35",
     "prettier": "^3.0.3",
     "prettier-plugin-svelte": "^3.0.3",
     "raw-loader": "^4.0.2",
