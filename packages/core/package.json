@@ -54,7 +54,7 @@
     "!**/*.tsbuildinfo"
   ],
   "dependencies": {
-    "@angular/compiler": "^11.2.11",
+    "@angular/compiler": "^19.2.18",
     "@babel/core": "7.14.5",
     "@babel/generator": "^7.14.3",
     "@babel/plugin-syntax-decorators": "^7.12.1",
