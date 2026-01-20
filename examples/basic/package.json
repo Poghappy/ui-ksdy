@@ -7,8 +7,8 @@
     "start": "watch 'yarn run mitosis' ./src ./overrides"
   },
   "dependencies": {
-    "@builder.io/mitosis": "workspace:*",
-    "@builder.io/mitosis-cli": "workspace:*",
+    "@builder.io/mitosis": "0.0.44",
+    "@builder.io/mitosis-cli": "0.0.8",
     "node-fetch": "^2.6.1",
     "seedrandom": "^3.0.5"
   },
