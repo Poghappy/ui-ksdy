@@ -12,8 +12,8 @@
     "report": "playwright show-report"
   },
   "dependencies": {
-    "@builder.io/mitosis": "workspace:*",
-    "@builder.io/mitosis-cli": "workspace:*",
+    "@builder.io/mitosis": "0.0.44",
+    "@builder.io/mitosis-cli": "0.0.8",
     "@playwright/test": "^1.48.0",
     "watch": "^1.0.2"
   },
